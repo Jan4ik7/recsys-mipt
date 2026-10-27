@@ -1,0 +1,13 @@
+# данные скачиваются ноутбуком и в репозиторий не попадают
+data/
+*.zip
+*.csv
+
+# окружения и кэши
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
